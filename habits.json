@@ -51,22 +51,22 @@
       {
         "planned": true,
         "time": "14:30",
-        "done": true
+        "done": false
       },
       {
         "planned": true,
         "time": "14:30",
-        "done": true
+        "done": false
       },
       {
         "planned": true,
         "time": "08:30",
-        "done": true
+        "done": false
       },
       {
         "planned": true,
         "time": "08:30",
-        "done": true
+        "done": false
       },
       {
         "planned": true,
@@ -109,7 +109,7 @@
       {
         "planned": true,
         "time": "16:30",
-        "done": true
+        "done": false
       },
       {
         "planned": false,
@@ -157,7 +157,7 @@
       {
         "planned": true,
         "time": "19:00",
-        "done": true
+        "done": false
       },
       {
         "planned": true,
@@ -180,22 +180,22 @@
       {
         "planned": false,
         "time": "10:45",
-        "done": true
+        "done": false
       },
       {
         "planned": false,
         "time": "22:45",
-        "done": true
+        "done": false
       },
       {
         "planned": false,
         "time": "22:45",
-        "done": true
+        "done": false
       },
       {
         "planned": true,
         "time": "15:30",
-        "done": true
+        "done": false
       },
       {
         "planned": true,
